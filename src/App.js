@@ -1,8 +1,9 @@
+import Home from "./Home/Home";
+
 function App() {
   return (
     <div className="App">
-      Business magazine
-      <div></div>
+      <Home />
     </div>
   );
 }
